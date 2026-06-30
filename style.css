@@ -1,0 +1,150 @@
+
+
+.main-container {
+    width: auto;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.uper-content {
+    width: 100%;
+    border-bottom: 3px solid black;
+}
+.names-stat img {
+    width: 100%;
+    max-width: 70px;
+}
+
+.new-bar {
+    display: flex;
+}
+.names-stat {
+    display: flex;
+    width: 50%;
+}
+.names-stat h3{
+    margin-top: 25px;
+    font-family: Arial;
+}
+.nav-bar a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+}
+.nav-bar{
+    text-align: end;
+    width: 100%;
+    margin-top: 25px;
+}
+.main-head {
+    text-align: center;
+}
+.main-head h1 {
+    font-family: Arial;
+    margin-bottom: 5px;
+}
+.main-head p {
+    margin-top: 0px;
+    color: rgb(60, 79, 95);
+    font-size: 18px;
+}
+.mid-content {
+    display: flex;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+.Project-def {
+    border-right: 2px solid black;
+    width: 50%;
+    text-align: center;
+    color: rgb(49, 49, 49);
+    font-family: Arial;
+    font-size: 14px;
+}
+.Project-def h3{
+    font-family: cursive;
+}
+.tow-divs {
+    border-right: 2px solid black;
+    padding-bottom: 40px;
+}
+.Work-exp {
+    border-bottom: 2px solid black;
+    padding-bottom: 0px;
+}
+.profile-style {
+    color: blue;
+    margin-top: 0px;
+}
+.Work-exp p {
+    padding-bottom: 10px;
+    font-size: 14px;
+    margin-left: 20px;
+    color: rgb(49, 49, 49);
+    font-family: Arial;
+
+}
+.Work-exp h3 {
+    font-family: cursive;
+    margin-left: 20px;
+}
+.open-work h3 {
+    font-family: cursive;
+    margin-left: 20px;
+}   
+.open-work p {
+    margin-left: 20px;
+    color: rgb(49, 49, 49);
+    font-family: Arial;
+    font-size: 14px;
+}
+.git-hup {
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.edu-cation h3 {
+    margin-left: 35px;
+    font-family: cursive;
+}
+.edu-cation p {
+    margin-left: 40px;
+    margin-top: 25px;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(49, 49, 49);
+}
+.edu-cation ul li {
+    color: rgb(49, 49, 49);
+    font-family: Arial;
+    font-size: 14px;
+}
+.reviews {
+    margin-bottom: 80px;
+    text-align: center;
+    font-family: Arial;
+    color: rgb(49, 49, 49);
+}
+blockquote {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+.feedback-wrapper {
+    display: flex;
+    color: rgb(49, 49, 49);
+    font-family: Arial;
+    line-height: 15px;
+}
+.feedback-wrapper p {
+    line-height: 20px;
+}
+.copy {
+    border: none;
+}
